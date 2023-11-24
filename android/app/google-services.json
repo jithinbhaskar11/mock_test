@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "489898829869",
+    "project_id": "mock-test-1ff0f",
+    "storage_bucket": "mock-test-1ff0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489898829869:android:4639004346241cc2e730a4",
+        "android_client_info": {
+          "package_name": "com.jithin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489898829869-nefcgmv42jgpgil539r5uppu1usptvlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jithin",
+            "certificate_hash": "a56075686692e9e2186beff241c698bb5b8dc244"
+          }
+        },
+        {
+          "client_id": "489898829869-2rqqtbtirtisjprjcshi5djsik8dmps1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXK_Rant1A6YQmlzHaTSx_ZyJjpJVI9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489898829869-2rqqtbtirtisjprjcshi5djsik8dmps1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
